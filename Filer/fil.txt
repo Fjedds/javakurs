@@ -1,0 +1,3 @@
+Dette er en fil med litt tekst.
+Og her er litt tekst til.
+Og her er litt tekst til ...
